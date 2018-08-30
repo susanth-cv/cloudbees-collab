@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Publish Event') {
       steps {
-        publishEvent simpleEvent('susanthEvent')
+        publishEvent simpleEvent('wrefvemEvent')
       }
     }
   }
